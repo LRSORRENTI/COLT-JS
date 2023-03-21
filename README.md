@@ -1,6 +1,5 @@
 ##Colt Steele JS Bootcamp, 
-## going to be jumping around this 
-## course, certain sections I'll ignore
+## going to be jumping around this course, certain sections I'll ignore
 
 ### What you'll learn:
 
